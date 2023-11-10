@@ -12,4 +12,4 @@
 1. Obtain this project by downloading it.
 2. Use your terminal or command prompt to install Streamlit with the command `pip install streamlit`. Ensure other libraries like pandas, matplotlib, seaborn, and streamlit are also installed if they are not already.
 3. Important: Do not relocate the CSV file, as it serves as the data source. Keep it in the same folder as dashboard.py.
-4. Open Visual Studio Code (VSCode) and execute the file by accessing the terminal and entering `python -m streamlit run dashboard.py`.
+4. Open Visual Studio Code (VSCode) and execute the file by accessing the terminal and entering in dashboard folder `python -m streamlit run dashboard.py`.
